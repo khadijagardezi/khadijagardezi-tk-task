@@ -1,0 +1,225 @@
+* {
+    font-family: 'Bitter', serif;
+    margin: 0;
+}
+.headerr {
+    background-color: rgb(71, 155, 211);
+    margin: 1;
+    padding: 1;
+    border: 0;
+}
+.ul {
+   
+  
+    color:white;  
+    list-style-type: none;
+    font-style: normal; 
+    display: inline-block; 
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    text-align: left;
+    color: white;
+    position: relative;
+    left: 600px;
+}
+td 
+{
+    color: skyblue;
+    position: relative;
+    left: 600px;
+}
+
+    
+    header {
+    
+      background-color: navy;
+    }
+    
+    
+    header > nav > ul {
+  
+      text-align: center;
+     
+    }
+    
+    header > nav > ul > li {
+    list-style: none;
+      display: inline-block;
+      padding: 10px 5px 10px 0px;
+    }
+    
+    header > nav > ul > li > a {
+
+      text-decoration: none;
+      color: rgb(126, 126, 230);
+      border-left: 1px solid white;
+      padding-left: 10px;
+    }
+    
+
+    header > nav > ul > li:first-child > a {
+      border: none;
+    }
+    
+.Btn-a {
+    
+    color: white;
+    background-color: rgb(67, 166, 212);
+    position: relative;
+    left: 1000px; 
+    margin: 8px;
+} 
+
+main {
+    background-color: rgb(60, 60, 250);
+    font-style: normal;
+    color: rgb(151, 151, 236);
+    list-style-type: none;
+}
+img {
+    
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.Green {
+    background-color : rgb(83, 189, 83);
+    height: auto;
+    width: auto;
+    margin: 0;
+    padding: 2px;
+    color: rgb(255, 255, 255); 
+    
+
+}
+#Journey {
+    text-align: center;
+    color: grey;
+    margin-bottom: 0em;
+    position: relative;
+    right: 385px;
+}
+#Jour {
+    text-align: center;
+    color: grey;
+    margin-bottom: 0em;
+    position: relative;
+    right:-109px;
+}
+.item {
+  background-color: rgb(216, 228, 233);
+  display: inline-block;
+  margin: auto;
+  position: relative;
+  left:20px;
+    
+  
+}
+
+#A {
+    color: steelblue;
+    text-align: center;
+    display: inline-block; 
+    margin-top: 1px ;
+    width: 300px;
+  height: 250px;
+  position: relative;
+  top: 16px;
+}
+#B {
+    color:steelblue ;
+    display: inline-block; 
+    text-align: center;
+    width: 300px;
+    height: 250px;
+}
+#C {
+    color: steelblue;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+  height: 250px;
+}
+#D {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 300px;
+    height: 250px;
+}
+#E {
+    background-color:  rgb(71, 155, 211);
+    color: white;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 3px;
+
+}
+#art {
+    color : rgb(93, 93, 240);
+    position: relative;
+    left:680px;
+    font-size: 5px;
+    
+}
+.Lbox {
+    background-color: rgb(205, 224, 216);
+    
+    width: 50px;
+    height: 60px;
+    font-size: 10px;
+    color: green;
+    border-top-color:green;
+    margin: 10px;
+    position: relative;
+    left:744px;
+    text-align: center;
+   
+} 
+.left-co {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    height: 1400px;
+    width: 1800px;
+}
+.ull {
+    text-align: left; 
+    list-style-type: none;
+    font-style: normal;  
+    margin: 0;
+    font-size: 5px;
+    color: grey;
+}
+#big {
+font-size: 20px;
+color: white;
+}
+.btn-b {
+    
+    color: steelblue;
+    border-top-color: steelblue;
+    background-color:white;
+    position: relative;
+    left:-530px;
+    padding: 12px 28px;
+}
+#bottom {
+    font-style: normal;
+    position: relative;
+    left: 200px;
+}
